@@ -5,5 +5,4 @@
 
 
 
-https://github.com/Sayantan40/Chicken-Disease-Classification-Project/assets/88722031/97c579d3-976b-410b-bd5c-b8b1bea94f7e
 
